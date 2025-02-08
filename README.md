@@ -1,4 +1,4 @@
-# Projeto: Lista de Amigos
+# Projeto: Desafio Amigo Secreto
 
 Este projeto tem como objetivo criar uma lista interativa de amigos, onde o usuário pode adicionar nomes de amigos através de um campo de entrada (input). Os nomes são armazenados em um array e podem ser exibidos no console para verificação. Este exemplo é escrito em JavaScript puro.
 
